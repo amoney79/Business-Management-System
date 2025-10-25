@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <img src="/assets/banner.png" alt="Sintoil Business Management System" width="90%">
+  <img src="https://github.com/amoney79/Business-Management-System/blob/master/test/assets/banner.png" alt="Sintoil Business Management System" width="90%">
 </p>
 
 > 🌍 *Transforming business management through automation, analytics, and secure digital finance.*
@@ -93,7 +93,7 @@ Sintoil aims to become the **digital backbone** for SMEs, enabling them to compe
 - Cost Centres, Budgets, Forecasts, Cash Flow, Scenario Reports  
 
 <p align="center">
-  <img src="/assets/dashboard-preview.png" alt="Sintoil Reports Dashboard" width="80%">
+  <img src="https://github.com/amoney79/Business-Management-System/blob/master/test/assets/dashboard-preview.png" alt="Sintoil Reports Dashboard" width="80%">
 </p>
 
 ---
@@ -162,7 +162,7 @@ Sintoil bridges this gap by offering **affordable, scalable ERP intelligence** t
 - 👨‍💻 Built by experienced Java engineers  
 
 <p align="center">
-  <img src="/assets/investor-banner.png" alt="Investment Opportunity" width="85%">
+  <img src="https://github.com/amoney79/Business-Management-System/blob/master/test/assets/investor-banner.png" alt="Investment Opportunity" width="85%">
 </p>
 
 ---
@@ -203,5 +203,5 @@ If you believe in **digital business transformation**,
 🌟 **Star this repository**, **share it**, and **join the Sintoil movement** toward intelligent enterprise management.
 
 <p align="center">
-  <img src="/assets/footer-banner.png" alt="Sintoil Footer" width="80%">
+  <img src="https://github.com/amoney79/Business-Management-System/blob/master/test/assets/footer-banner.png" alt="Sintoil Footer" width="80%">
 </p>
